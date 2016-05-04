@@ -18,6 +18,11 @@
             "path" : "src/resource.js",
             "md5" : "BA47101EBB65FBFCFB61C4CC57A306CA",
             "group" : "2"
+        },
+        "update3" : {
+            "path" : "src/Scene/GameMainScene.js",
+            "md5" : "BA47101EBB65FBFCFB61C4CC57A306CA",
+            "group" : "2"
         }
     },
     "searchPaths" : [
