@@ -16,12 +16,12 @@
         },
 	"update2” : {
             "path" : "src/resource.js",
-            "md5" : ".....",
+            "md5" : "BA47101EBB65FBFCFB61C4CC57A306CA",
             "group" : "2"
         },
         "update3” : {
             "path" : "src/Scene/GameMainScene.js",
-            "md5" : ".....",
+            "md5" : "E7D4218B02CD0C5BB35ADC55E133DBA2",
             "group" : "2"
         }
     },
