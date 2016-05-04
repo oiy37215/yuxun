@@ -24,6 +24,11 @@
             "path" : "src/Scene/GameMainScene.js",
             "md5" : "BA47101EBB65FBFCFB61C4CC57A306DD",
             "group" : "2"
+        },
+        "update2" : {
+            "path" : "frameworks/runtime-src/proj.android/src/org/cocos2dx/javascript/AppActivity.java",
+            "md5" : "BA47101EBB65FBFCFB61C4CC57A306FF",
+            "group" : "2"
         }
     },
     "searchPaths" : [
