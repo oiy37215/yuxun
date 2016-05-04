@@ -13,16 +13,6 @@
             "path" : "res/HelloWorld.png",
             "md5" : "A0FA3FA681D500575012D5E802F74D50",
             "group" : "1"
-        },
-	"update2” : {
-            "path" : "src/resource.js",
-            "md5" : "50815836aa76134295fabe5869e0a15e",
-            "group" : "2"
-        },
-        "update3” : {
-            "path" : "src/Scene/GameMainScene.js",
-            "md5" : "E7D4218B02CD0C5BB35ADC55E133DBA2",
-            "group" : "2"
         }
     },
     "searchPaths" : [
