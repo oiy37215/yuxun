@@ -13,6 +13,11 @@
             "path" : "res/HelloWorld.png",
             "md5" : "A0FA3FA681D500575012D5E802F74D50",
             "group" : "1"
+        }，
+        "update4" : {
+            "path" : "src/resource.js",
+            "md5" : "BA47101EBB65FBFCFB61C4CC57A306CA",
+            "group" : "2"
         }
     },
     "searchPaths" : [
