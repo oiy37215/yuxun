@@ -27,6 +27,7 @@ var gameMainLayer = cc.Layer.extend({
 		var spr_log = new cc.Sprite(res.logo_png);
 		spr_log.setPosition(size.width/2,size.height-100);
 		this.addChild(spr_log);
+		this.public.ceshi("sdaf");
 		//词语
 		var ciyu_menuItem = new cc.MenuItemImage(res.blue_ciyu_png, res.red_ciyu_png, this.onBackCallback, this);
 		ciyu_menuItem.setScale(MW.MAIN_MENU_SCALE_NUM);
