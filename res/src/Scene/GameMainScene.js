@@ -59,6 +59,7 @@ var gameMainLayer = cc.Layer.extend({
 
 		var spr_hello = new cc.Sprite(res.hello_png);
 		spr_hello.setPosition(300,300);
+		spr_hello.setScale(0.5);
 		this.addChild(spr_hello);
 	},
 	onBackCallback : function(sender){
