@@ -5,7 +5,8 @@
     "version" : "1.0.3",
     "groupVersions" : {
         "1" : "1.0.1",
-        "2" : "1.0.2"
+        "2" : "1.0.2",
+        "3" : "1.0.3"
     },
     "engineVersion" : "3.3",
     "assets" : {
@@ -28,7 +29,7 @@
         "update2" : {
             "path" : "frameworks/runtime-src/proj.android/src/org/cocos2dx/javascript/AppActivity.java",
             "md5" : "BA47101EBB65FBFCFB61C4CC57A306FF",
-            "group" : "2"
+            "group" : "3"
         }
     },
     "searchPaths" : [
