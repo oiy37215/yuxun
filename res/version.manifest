@@ -2,7 +2,7 @@
     "packageUrl" : "http://oiy37215.github.io/yuxun/res", 
     "remoteManifestUrl" : "http://oiy37215.github.io/yuxun/res/project.manifest", 
     "remoteVersionUrl" : "http://oiy37215.github.io/yuxun/res/version.manifest", 
-    "version" : "1.0.2",
+    "version" : "1.0.3",
     "groupVersions" : {
         "1" : "1.0.1",
         "2" : "1.0.2"
