@@ -2,7 +2,7 @@
     "packageUrl" : "http://oiy37215.github.io/yuxun/res", 
     "remoteManifestUrl" : "http://oiy37215.github.io/yuxun/res/project.manifest", 
     "remoteVersionUrl" : "http://oiy37215.github.io/yuxun/res/version.manifest", 
-    "version" : "1.0.1",
+    "version" : "1.0.0",
     "groupVersions" : {
         "1" : "1.0.1",
         "2" : "1.0.2"
@@ -17,12 +17,12 @@
 	"update2” : {
             "path" : "src/resource.js",
             "md5" : "50815836aa76134295fabe5869e0a15e",
-            "group" : "1"
+            "group" : "2"
         },
         "update3” : {
             "path" : "src/Scene/GameMainScene.js",
             "md5" : "E7D4218B02CD0C5BB35ADC55E133DBA2",
-            "group" : "1"
+            "group" : "2"
         }
     },
     "searchPaths" : [
