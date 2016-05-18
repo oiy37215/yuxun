@@ -2,7 +2,7 @@
     "packageUrl" : "http://oiy37215.github.io/yuxun/res", 
     "remoteManifestUrl" : "http://oiy37215.github.io/yuxun/res/project.manifest", 
     "remoteVersionUrl" : "http://oiy37215.github.io/yuxun/res/version.manifest", 
-    "version" : "1.1.0",
+    "version" : "1.1.1",
     "groupVersions" : {
         "1" : "1.0.2",
         "2" : "1.0.2",
@@ -12,7 +12,7 @@
     "assets" : {
     "update1" : {
             "path" : "res/isso.txt",
-            "md5" : "A0FA3FA681D500575012D5E802F74D50",
+            "md5" : "A0FA3FA681D500575012D5E802F74D11",
             "group" : "1"
         }
     },
