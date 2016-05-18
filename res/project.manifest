@@ -10,7 +10,12 @@
     },
     "engineVersion" : "3.3",
     "assets" : {
-        "update1" : {
+    "update1" : {
+            "path" : "res/isso.txt",
+            "md5" : "A0FA3FA681D500575012D5E802F74D50",
+            "group" : "1"
+        }
+        /*"update1" : {
             "path" : "res/HelloWorld.png",
             "md5" : "A0FA3FA681D500575012D5E802F74D50",
             "group" : "1"
@@ -25,7 +30,7 @@
             "path" : "src/Scene/GameMainScene.js",
             "md5" : "BA47101EBB65FBFCFB61C4CC57A306DD",
             "group" : "2"
-        }
+        }*/
     },
     "searchPaths" : [
     	"res/"
