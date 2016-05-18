@@ -10,26 +10,7 @@
     },
     "engineVersion" : "3.3",
     "assets" : {
-    "update1" : {
-            "path" : "res/isso.txt",
-            "md5" : "A0FA3FA681D500575012D5E802d33D11",
-            "group" : "1"
-        },
-        "update2" : {
-            "path" : "res/libcocos2djs.so.zip",
-
-            "md5" : "41D8E948052B5B714B14F81612CF534D",
-
-            "compressed" : true,
-
-            "group" : "2"
-
-        },
-        "update3" : {
-            "path" : "src/Scene/GameMainScene.js",
-            "md5" : "BA47101EBB65FBFCFB61C4CC57A306DD",
-            "group" : "2"
-        }
+    
     },
     "searchPaths" : [
     	"res/"
