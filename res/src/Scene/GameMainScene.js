@@ -66,20 +66,24 @@ var gameMainLayer = cc.Layer.extend({
 		var menu = new cc.Menu(ciyu_menuItem,juzi_menuItem,duanzi_menuItem,wenzhang_menuItem,zibian_menuItem,set_menuItem,constact_menuItem);
 		menu.setPosition(0, 0);
 		this.addChild(menu);
-		cc.log(this.getRousePath())
+		
 		this.public.addListenner();
 		
 		this.defaultManSound();
 		
 		this.setVersionsLabel("1.0");
 		
+		this.popUpdateBulletin();
 		this.public.chaPingGuangGao();
-		this.public.ceshi("update");
-		jsb.reflection.callStaticMethod("org/cocos2dx/javascript/AppActivity", "ceshi2", "(Ljava/lang/String;)V","ddddd");
+		 
+		
 	},
-	getRousePath : function() {
-		return jsb.fileUtils.getWritablePath();
-	},
+	popUpdateBulletin : function(){
+		var spr_dialogUpdate= new dialogUpdateSprite(this);
+		spr_dialogUpdate.setPosition(size.width/2,size.height/2);
+		this.addChild(spr_dialogUpdate);
+	}
+	,
 	setVersionsLabel : function(str){
 		var label_versions = new cc.LabelTTF("版本：v"+str,"Arial", 20);
 		label_versions.setPosition(size.width-80,100);
