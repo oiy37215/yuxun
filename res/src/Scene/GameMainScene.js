@@ -71,7 +71,7 @@ var gameMainLayer = cc.Layer.extend({
 		
 		this.defaultManSound();
 		
-		this.setVersionsLabel("1.0");
+		this.setVersionsLabel(“1.1”);
 		
 		this.popUpdateBulletin();
 		this.public.chaPingGuangGao();
