@@ -10,11 +10,7 @@
     },
     "engineVersion" : "3.3",
     "assets" : {
-       "update1" : {
-            "path" : "res/isUpdate.txt",
-            "md5" : "A0FA3FA684D500571012D5E302F74D50",
-            "group" : "1"
-        }
+       
     },
     "searchPaths" : [
     	"res/"
