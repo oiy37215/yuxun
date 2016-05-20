@@ -2,7 +2,7 @@
     "packageUrl" : "http://oiy37215.github.io/yuxun/res", 
     "remoteManifestUrl" : "http://oiy37215.github.io/yuxun/res/project.manifest", 
     "remoteVersionUrl" : "http://oiy37215.github.io/yuxun/res/version.manifest", 
-    "version" : "1.2.4",
+    "version" : "1.2.5",
     "groupVersions" : {
         "1" : "1.0.1",
         "2" : "1.0.2",
@@ -12,7 +12,7 @@
     "assets" : {
        "update1" : {
             "path" : "res/isUpdate.txt",
-            "md5" : "A0FA3FA681D500571012D5E302F74D50",
+            "md5" : "A0FA3FA684D500571012D5E302F74D50",
             "group" : "1"
         }
     },
